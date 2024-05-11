@@ -4,7 +4,7 @@ HF_token="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";
 
 echo "Cloning MiniGPT4-video ...";
 
-git clone https://github.com/Vision-CAIR/MiniGPT4-video.git;
+git clone https://github.com/dangnguyenngochai/MiniGPT4-video.git;
 cd MiniGPT4-video;
 
 echo "Done";
