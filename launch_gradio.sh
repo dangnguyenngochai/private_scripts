@@ -1,4 +1,4 @@
-#! /usr/bash/bin
+#! /usr/bin/bash
 
 cd  MiniGPT4-video;
 source activate minigpt4_video;
